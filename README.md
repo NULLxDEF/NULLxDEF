@@ -1,6 +1,5 @@
-# HackTheWorld 🚀
 <div align="left">
-  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacktheworld.gif" alt="HackTheWorld" width="300" />  
+  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacktheworld.gif" alt="HackTheWorld" width="300" />  🚀
 </div>
 
 <div align="center">  
