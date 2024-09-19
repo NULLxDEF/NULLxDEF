@@ -2,7 +2,7 @@
 
 ![HackTheWorld](https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacktheworld.gif)
 
-![Hacker Legion](https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacker-legion.gif)
+![Hacker Legion](https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hackers-legion.gif)
 
 ```bash
 root@bughunt3r:~# cat about.txt
