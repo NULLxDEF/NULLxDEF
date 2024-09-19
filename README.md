@@ -4,7 +4,7 @@
 
 <div align="center">  
   
-  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacker-computer.gif" alt="Hacker Computer" width="500" height="500" />
+  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacker-computer.gif" alt="Hacker Computer" width="500" height="400" />
 </div>
 
 ```bash
