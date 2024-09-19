@@ -1,7 +1,7 @@
 # HackTheWorld 🚀
 
 <div align="center">
-  <img align=left src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacktheworld.gif" alt="HackTheWorld" width="300" style="margin-right: 20px;" />
+  <img align=left src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacktheworld.gif" alt="HackTheWorld" width="300" />
   <img align=right src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hackers-legion.gif" alt="Hacker Legion" width="300" />
 </div>
 
