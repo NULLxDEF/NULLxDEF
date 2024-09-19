@@ -1,14 +1,12 @@
-<div align="left">
-  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacktheworld.gif" alt="HackTheWorld" width="300" />  
-</div>
+# HackTheWorld 🚀
 
-<div align="center">  
-  
-  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacker-computer.gif" alt="Hacker Computer" width="500" height="400" />
+<div align="center">
+  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacktheworld.gif" alt="HackTheWorld" width="300" style="margin-right: 20px;" />
+  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hackers-legion.gif" alt="Hacker Legion" width="300" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hackers-legion.gif" alt="Hacker Legion" width="300" />
+  <img src="https://github.com/NULLxDEF/NULLxDEF/blob/main/icon/hacker-computer.gif" alt="Hacker Computer" width="500" height="400" />
 </div>
 
 ```bash
